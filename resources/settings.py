@@ -1,0 +1,1 @@
+IMAGES_STORE = "F:\图片\煎蛋"
